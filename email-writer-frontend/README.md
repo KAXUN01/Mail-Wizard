@@ -21,7 +21,7 @@ The **Email Writer** is a user-friendly interface that allows users to generate 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/email-writer-frontend.git
+   git clone https://github.com/KAXUN01/Mail-Wizard.git
    cd email-writer-frontend
    ```
 
@@ -40,14 +40,14 @@ npm run dev
 The app will be available at http://localhost:5173.
 
 ## Usage
-Enter the email content into the text area.
-Select a tone from the dropdown menu (optional).
-Click on Generate Reply.
-View the generated reply and copy it to the clipboard as needed.
+- Enter the email content into the text area.
+- Select a tone from the dropdown menu (optional).
+- Click on Generate Reply.
+- View the generated reply and copy it to the clipboard as needed.
 
 ## Scripts
-npm run dev: Starts the development server.
-npm run build: Builds the app for production.
+- npm run dev: Starts the development server.
+- npm run build: Builds the app for production.
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
