@@ -49,7 +49,7 @@ Before running the application, ensure you have the following installed:
 
 ---
 ## Usage
-- Open the frontend in your browser at http://localhost:3000.
+- Open the frontend in your browser at http://localhost:5173
 - Paste the email content in the input field.
 - Select a tone and click "Generate Reply."
 - Copy the generated email to your clipboard if needed.
