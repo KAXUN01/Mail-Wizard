@@ -1,6 +1,6 @@
-# Email Writer Frontend
+# Email Writer
 
-The **Email Writer Frontend** is a user-friendly interface that allows users to generate quick email replies effortlessly. It features options for selecting different tones and provides a modern UI to enhance the user experience.
+The **Email Writer** is a user-friendly interface that allows users to generate quick email replies effortlessly. It features options for selecting different tones and provides a modern UI to enhance the user experience.
 
 ## Features
 
