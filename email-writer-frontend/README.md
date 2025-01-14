@@ -49,27 +49,14 @@ View the generated reply and copy it to the clipboard as needed.
 npm run dev: Starts the development server.
 npm run build: Builds the app for production.
 
-## Folder Structure
-email-writer-frontend/
-├── public/            # Static files
-├── src/
-│   ├── components/    # Reusable components
-│   ├── pages/         # App pages
-│   ├── App.jsx        # Main App component
-│   ├── main.jsx       # Entry point
-│   └── styles/        # Custom styling
-├── .env               # Environment variables
-├── package.json       # Project dependencies and scripts
-└── vite.config.js     # Vite configuration
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/your-feature.
-Commit your changes: git commit -m 'Add some feature'.
-Push to the branch: git push origin feature/your-feature.
-Open a pull request.
+- Fork the repository.
+- Create a new branch: git checkout -b feature/your-feature.
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature/your-feature.
+- Open a pull request.
 
 ## License
 This project is licensed under the MIT License.
