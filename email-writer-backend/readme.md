@@ -36,5 +36,5 @@ Before running the application, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/KAXUN01/Mail-Wizard.git
-cd email-writer-frontend
+cd email-writer-backtend
 ```
